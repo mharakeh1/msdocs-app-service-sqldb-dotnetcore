@@ -44,3 +44,6 @@ app.MapControllerRoute(
     pattern: "{controller=Todos}/{action=Index}/{id?}");
 
 app.Run();
+
+
+///Microsoft GUide https://learn.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app
