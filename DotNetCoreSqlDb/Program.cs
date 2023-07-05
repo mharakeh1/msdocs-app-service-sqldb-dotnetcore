@@ -46,4 +46,4 @@ app.MapControllerRoute(
 app.Run();
 
 
-////Microsoft GUide https://learn.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app
+///////Microsoft GUide https://learn.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app
